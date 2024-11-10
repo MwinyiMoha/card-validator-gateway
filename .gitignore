@@ -1,0 +1,5 @@
+# Config vars
+.env
+
+# Proto generated artifacts
+*.pb
